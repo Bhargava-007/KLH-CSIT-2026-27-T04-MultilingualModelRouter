@@ -1,9 +1,9 @@
 # P08: Multilingual Helpdesk Model Router based on Cost, Latency and Privacy
 
 **Course:** Generative AI and AI Platform Engineering (25CS2207E)  
-**Institution:** Koneru Lakshmaiah Education Foundation (KLH) — Dept. of CSE (II B.Tech, Academic Year 2026–2027)  
+**Institution:** Koneru Lakshmaiah Education Foundation (KLH) — Dept. of CSIT (II B.Tech, Academic Year 2026–2027)  
 **Team ID:** T04  
-**Supervisor:** [Update Supervisor Name — Asif Shaik / Purushotham Muniganti]
+**Supervisor:** Lakshmi Prasanna
 
 ---
 
@@ -31,8 +31,8 @@ Modern enterprise helpdesks handle diverse user queries varying widely in lingui
 ---
 
 ## Setup and Execution Instructions
-1. Clone the repository: `git clone https://github.com/Bhargava-007/KLH-CSE-2026-27-T04-MultilingualModelRouter.git`
-2. Enter the folder: `cd KLH-CSE-2026-27-T04-MultilingualModelRouter`
+1. Clone the repository: `git clone https://github.com/Bhargava-007/KLH-CSIT-2026-27-T04-MultilingualModelRouter.git`
+2. Enter the folder: `cd KLH-CSIT-2026-27-T04-MultilingualModelRouter`
 3. Create and activate a virtual environment: `python -m venv .venv` and `.\.venv\Scripts\Activate.ps1`
 4. Install dependencies: `python -m pip install -r requirements.txt`
 5. Create a `.env` file in the root directory with `OPENROUTER_API_KEY=your_openrouter_api_key`
